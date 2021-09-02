@@ -1,7 +1,3 @@
-# Demo
+# A brief introduction to the historical development of financial theory and practice
 
-some discription
-
-## subheader
-
-watch tutorial on YouTube
+Guest presentation at RiskLab on March 19, 2019
